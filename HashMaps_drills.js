@@ -49,4 +49,4 @@ const WhatDoesThisDo = function(){
 
 */
 
-//I believe the above function would output 10 and 20 the values assigned to the keys of str1 and str2.
+//I believe the above function would output 10 and 20 the values assigned to the keys of str1 and str3.
